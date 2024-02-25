@@ -1,7 +1,7 @@
 <img src="https://aniyuki.com/wp-content/uploads/2022/08/aniyuki-hello-15.gif" width="1000" height="550">
 
 
-<h1 align="center">Hi 👋, I'm Gyan Prakahttps://aniyuki.com/wp-content/uploads/2022/08/aniyuki-hello-15.gifsh</h1>
+<h1 align="center">Hi 👋, I'm Gyan Prakahttps
 <h3 align="center">A passionate Frontend Web & App Developer from India</h3>
 
 - 🌱 I’m currently learning *Next JS*

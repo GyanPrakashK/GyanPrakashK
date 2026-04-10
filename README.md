@@ -10,7 +10,6 @@
 
 - ⚡ Fun fact *I prefer long videos over shorts.*
 
-,    gdfgdf
 
 
 
